@@ -1,4 +1,4 @@
-Frankos.org
+turkos.info
 ===========
 
-This is the Franko website.
+This is the Turko website.
